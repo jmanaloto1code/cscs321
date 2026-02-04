@@ -1,2 +1,2 @@
-# cscs321
+# csc321
 Class work
